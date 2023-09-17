@@ -204,7 +204,7 @@ header {
 }
 
 .progress-line .html {
-  width: 80%;
+  width: 90%;
 }
 .progress-line .css {
   width: 70%;
@@ -218,6 +218,15 @@ header {
 .progress-line .c {
   width: 80%;
 }
+.progress-line .Python {
+    width: 60%;
+  }
+.progress-line .node {
+    width: 75%;
+}
+.progress-line .express {
+    width: 80%;
+  }  
 
 .bar .progress-line span::before {
   position: absolute;
