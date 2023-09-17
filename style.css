@@ -259,21 +259,29 @@ header {
 }
 
 .progress-line .html::after {
-  content: "80%";
+  content: "90%";
 }
 .progress-line .css::after {
   content: "70%";
 }
 .progress-line .bootstrap::after {
-  content: "50%";
+  content: "75%";
 }
 .progress-line .javascript::after {
   content: "50%";
 }
 .progress-line .c::after {
-  content: "50%";
+  content: "80%";
 }
-
+.progress-line .Python::after {
+    content: "60%";
+  }
+  .progress-line .node::after {
+    content: "75%";
+  }
+  .progress-line .express::after {
+    content: "80%";
+  } 
 .navbar.solid {
   background-color: #00ffd9;
   transition: background-color 1s ease 0s;
